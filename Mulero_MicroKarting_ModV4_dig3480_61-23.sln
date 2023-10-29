@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame", "KartGame.csproj", "{6bfb8d52-b0d8-910f-48ef-6d75c1f17918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI", "KartGame.AI.csproj", "{f9012d07-c4c2-e53f-8b0f-1360a3e21101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f5d1147d-dbde-24a7-37d2-242cae043384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Microgame.Tutorials", "Unity.Microgame.Tutorials.csproj", "{fec1d4c2-aa98-2a76-263d-d34be4ad021e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.AI.Editor", "KartGame.AI.Editor.csproj", "{23095a35-e292-5269-5a15-2e3a7124b804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartGame.Editor", "KartGame.Editor.csproj", "{b0d28608-cc08-dd80-4242-eb49b5045a5a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Karting.Tutorials", "Unity.Karting.Tutorials.csproj", "{c608e17f-f45e-372a-9e39-dfb70b97f5ad}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6bfb8d52-b0d8-910f-48ef-6d75c1f17918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6bfb8d52-b0d8-910f-48ef-6d75c1f17918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f9012d07-c4c2-e53f-8b0f-1360a3e21101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f9012d07-c4c2-e53f-8b0f-1360a3e21101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f5d1147d-dbde-24a7-37d2-242cae043384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f5d1147d-dbde-24a7-37d2-242cae043384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fec1d4c2-aa98-2a76-263d-d34be4ad021e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fec1d4c2-aa98-2a76-263d-d34be4ad021e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23095a35-e292-5269-5a15-2e3a7124b804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23095a35-e292-5269-5a15-2e3a7124b804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b0d28608-cc08-dd80-4242-eb49b5045a5a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b0d28608-cc08-dd80-4242-eb49b5045a5a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c608e17f-f45e-372a-9e39-dfb70b97f5ad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c608e17f-f45e-372a-9e39-dfb70b97f5ad}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
